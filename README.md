@@ -83,6 +83,6 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For any inquiries, feel free to reach out!
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/HariharanJ7/Simple_registration/)
+- **Email:** jhariharan236@gmail.com
+- **GitHub:** [HariharanJ7](https://github.com/HariharanJ7/Simple_registration/)
 
